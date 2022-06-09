@@ -21,11 +21,11 @@ console.log (Object.values(foods));
 
 // Write code that prints the value of the second food of the foods variable
 // you created above:
-console.log (foods.grapes)
+console.log (foods.grapes);
 
 // Write code that adds a food to the foods object.
 // Then, print the updated object:
-console.log (foods.banana = 20)
+console.log (foods.banana = 20);
 
 
 //#-------------------
